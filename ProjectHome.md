@@ -1,0 +1,1 @@
+This Vaadin addon can be used to draw JFreeChart graphs in Vaadin applications. For modern browsers graphs are transformed to SVG via batik. As vector graphics they can be printed with high quality. For IE (prior to version 9) graphs are rendered as PNG files.
